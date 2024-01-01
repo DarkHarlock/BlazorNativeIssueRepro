@@ -1,0 +1,1 @@
+Minimal code to reproduce some native interop issue on Blazor WASM
